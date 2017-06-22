@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+##Premain-Class: cn.com.sky.agent.agentmain.MainAgent
+Can-Redefine-Classes: true
+Boot-Class-Path: javassist-3.18.1-GA.jar
+Agent-Class: cn.com.sky.agent.agentmain.MainAgent

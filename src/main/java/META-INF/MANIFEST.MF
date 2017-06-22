@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Agent-Class: cn.com.sky.agent.agentmain.MyAgent
